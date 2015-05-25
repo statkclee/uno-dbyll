@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hello world
-description: Linux, Apache, MySQL/MariaDB, PHP. In short LAMP, a complete Open Source solution for web-developer.
+description: 안녕하세요... 한국에 오신 것을 환영합니다.
 image: /assets/media/Lamp.jpg
 categories: [linux]
 tags: [Arch, lamp, setup, php, mariadb, appache, mysql ]
