@@ -20,14 +20,11 @@ BASE_PATH : http://blog.ankanbiswas.in/uno-dbyll
 title : uno-dbyll
 
 
-
 author:
-  name: Ankan Biswas
-  role: Jekyll Theme
-  email: support@ankanbiswas.in
-  github: talk2ankan
-  twitter: talk2ankan
-  facebook: talk2ankan
-  googleplus: +AnkanBiswasWorkspace
+  name: Kwangchun Lee
+  role: xwMOOC
+  email: i@xwmooc.net
+  github: statkclee
+  facebook: xwmooc
   bio: "Simple, clean, responsive and stylist theme for jekyll. "
   uno-dbyll: https://raw.githubusercontent.com/talk2ankan/uno-dbyll/gh-pages/uno-dbyll.png
